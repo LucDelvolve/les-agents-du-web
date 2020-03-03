@@ -11,7 +11,7 @@ use Gedmo\Mapping\Annotation as Gedmo;
 /**
  * @ORM\Entity(repositoryClass="App\Repository\ClientRepository")
  */
-class Client
+class Projet
 {
     use TimestampableTrait;
 
