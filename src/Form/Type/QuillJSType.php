@@ -2,8 +2,8 @@
 
 namespace App\Form\Type;
 
-use App\Entity\Article;
-use App\Entity\Tag;
+use App\Entity\Client;
+use App\Entity\Projet;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\TextareaType;
